@@ -14,3 +14,13 @@ Apple's MAC's strength is its interlockability.
 This indicates that it is good to use a MAC PC when using an Apple cell phone or an Apple tablet. 
 All devices used by Apple devices can be linked.
 MAC is also able to operate safely with very stable operating systems and continuous updates.
+
+
+OS Linux
+
+Linux is a family of open-source Unix-like operating systems based on the Linux kernel. 
+Linux is an operating system that can be used on both servers and PC because it was developed so that Unix, which is used on servers, can be used on both servers and PCs. 
+Linux is open source. 
+You don't have to pay for a license like Microsoft's Windows. 
+In addition, all sources are open to the public, allowing for relatively fast security updates even if vulnerabilities are exposed.
+
